@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I add new text from File Change Tab
+
 Use the left arrow to go back!
